@@ -1,0 +1,5 @@
+Hi Git team,
+
+This terminal is very goood.
+
+It is supporting Linux commands also.
